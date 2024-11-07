@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/erb_frontend2/static/css/main.5e13a56d.css",
+    "main.js": "/erb_frontend2/static/js/main.ed5750fe.js",
+    "static/media/beach.jpg": "/erb_frontend2/static/media/beach.5f2f89c274f89796a036.jpg",
+    "static/media/vacation2.jpg": "/erb_frontend2/static/media/vacation2.e50c45a7cd3e00662186.jpg",
+    "static/media/vacation1.jpg": "/erb_frontend2/static/media/vacation1.bb838cc90fe37884ec5a.jpg",
+    "static/media/vacation4.jpg": "/erb_frontend2/static/media/vacation4.cbabc0e58402d2d4601e.jpg",
+    "static/media/about_beach.jpg": "/erb_frontend2/static/media/about_beach.112ed641293617670cf0.jpg",
+    "static/media/vacation3.jpg": "/erb_frontend2/static/media/vacation3.250d288f24e4861a0431.jpg",
+    "static/media/logo.svg": "/erb_frontend2/static/media/logo.4b621a47da5981ed37a9748ebdbbf61c.svg",
+    "index.html": "/erb_frontend2/index.html",
+    "main.5e13a56d.css.map": "/erb_frontend2/static/css/main.5e13a56d.css.map",
+    "main.ed5750fe.js.map": "/erb_frontend2/static/js/main.ed5750fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e13a56d.css",
+    "static/js/main.ed5750fe.js"
+  ]
+}
